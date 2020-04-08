@@ -65,6 +65,7 @@ subtitle: 树形控件
 | key | 被树的 (default)ExpandedKeys / (default)CheckedKeys / (default)SelectedKeys 属性所用。注意：整个树范围内的所有节点的 key 值不能重复！ | string | 内部计算出的节点位置 |
 | selectable | 设置节点是否可被选中 | boolean | true |
 | title | 标题 | string\|ReactNode | '---' |
+| switcherIcon | 自定义子节点的图标 | ReactNode | fileIcon |
 
 ### DirectoryTree props
 
